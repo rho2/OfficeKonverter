@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertereForms", "ConvertereForms\ConvertereForms.csproj", "{653903E2-F819-4090-8955-F23989B2ED0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653903E2-F819-4090-8955-F23989B2ED0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653903E2-F819-4090-8955-F23989B2ED0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653903E2-F819-4090-8955-F23989B2ED0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653903E2-F819-4090-8955-F23989B2ED0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs40
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConvertereForms\\ConvertereForms.csproj
+		SccProjectName1 = ConvertereForms
+		SccLocalPath1 = ConvertereForms
+	EndGlobalSection
+EndGlobal
